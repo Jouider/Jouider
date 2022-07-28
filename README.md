@@ -1,4 +1,4 @@
-<h1 align="center"> ✨ hi there! im Abdellah </h1>
+<h1 align="center"> ✨ Hi there! im Abdellah </h1>
 
 <h3 align="center"> I'm a Student at the Specialized Institute of Applied Technology ! </h3>
 
